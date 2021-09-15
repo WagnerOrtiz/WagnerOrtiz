@@ -1,8 +1,9 @@
-# Wagner Ortiz
+# Hi... I'm Wagner Ortiz!
 
-- 💬 Speak English, German and Portuguese
-- 💻 Working at Dataside with HTML, CSS, Javascript
-- 📚 Learning further Javascript and React Native
+- 💻 I'm currently working at Dataside with HTML, CSS, Javascript and I'm learning React Native aside.
+- 📚 I'm always interested in whatever it comes to learn...specially in Technolgy. As the American saying says: Knowledge is power!
+- 💬 I speak English, German, Portuguese and get by well in Spanish as well.
+- 🌍 Let's code the future!
 
   <div>
   <a href="https://github.com/WagnerOrtiz">
