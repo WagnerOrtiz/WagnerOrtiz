@@ -1,9 +1,10 @@
-# Hi... I'm Wagner Ortiz!
+# Wagner Ortiz
 
 - 💻 I'm currently working at Dataside with HTML, CSS, Javascript and I'm learning React Native aside.
 - 📚 I'm always interested in whatever it comes to learn...specially in Technolgy. As the American saying says: Knowledge is power!
 - 💬 I speak English, German, Portuguese and get by well in Spanish as well.
 - 🌍 Let's code the future!
+
 
   <div>
   <a href="https://github.com/WagnerOrtiz">
