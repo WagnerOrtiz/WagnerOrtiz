@@ -1,9 +1,9 @@
 # Wagner Ortiz
 
-- 💻 I'm currently working at Dataside developing applications using HTML, CSS, Javascript, React and React Native.
-- 📚 I'm always interested in whatever it comes to learn...specially in Technolgy. As the saying says: Knowledge is power!
-- 💬 I speak English, German, Portuguese and get by well in Spanish as well.
-- 🌍 Let's code the future!
+- 💻 Currently working at Dataside developing applications using HTML, CSS, Javascript, React and React Native.
+- 📚 Always interested in whatever it comes to learn...specially in Technolgy. As the saying says: Knowledge is power!
+- 💬 Speak English, German, Portuguese and get by well in Spanish.
+- 🌍 The future will be a digital life!
 
 
   <div>
