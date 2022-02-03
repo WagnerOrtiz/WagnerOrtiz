@@ -3,7 +3,7 @@
 - 💻 Currently working at Dataside developing applications using HTML, CSS, Javascript, React and React Native.
 - 📚 Always interested in whatever it comes to learn...specially in Technolgy. As the saying says: Knowledge is power!
 - 💬 Speak English, German, Portuguese and get by well in Spanish.
-- 🌍 The future will be a digital life!
+- 🌍 The future is gonna be digital!
 
 
   <div>
