@@ -1,6 +1,6 @@
 # Wagner Ortiz
 
-- 💻 Currently working at Dataside developing applications using HTML, CSS, Javascript, Typescript, React and React Native.
+- 💻 Currently working at Dataside as PowerApps developer (PowerApps, Automate,SharePoint and hundreds of other connectors).
 - 📚 Always interested in whatever it comes to learn...specially in Technolgy. As the saying says: Knowledge is power!
 - 💬 Speak English, German, Portuguese and get by well in Spanish.
 - 🌍 The future is gonna be digital!
