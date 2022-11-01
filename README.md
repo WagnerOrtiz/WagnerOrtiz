@@ -6,13 +6,15 @@
 - 🌍 The future is gonna be digital!
 
 
-I have also basic knowledge in:
   <div>
   <a href="https://github.com/WagnerOrtiz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WagnerOrtiz&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerOrtiz&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
+  
+  I have also basic knowledge in:
+  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
