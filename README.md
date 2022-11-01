@@ -1,8 +1,10 @@
 # Wagner Ortiz
 
 - 💻 Currently working at Dataside as PowerPlatform developer (PowerApps, Automate,SharePoint).
-- 📚 Knowledge is power!
+- 📱  Less code, more Power!
+
 - 💬 Speak English, German, Portuguese and get by well in Spanish.
+- 📚 Knowledge is power!
 
 
   <div>
@@ -11,15 +13,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerOrtiz&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  
-  I also have basic knowledge in:
-  <img align="center" alt="PApps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg(https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200929195935)">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+ 
 
   ##
 
