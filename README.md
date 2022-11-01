@@ -1,11 +1,12 @@
 # Wagner Ortiz
 
-- 💻 Currently working at Dataside as PowerApps developer (PowerApps, Automate,SharePoint).
+- 💻 Currently working at Dataside as PowerPlatform developer (PowerApps, Automate,SharePoint).
 - 📚 Always interested in whatever it comes to learn...specially in Technolgy. As the saying says: Knowledge is power!
 - 💬 Speak English, German, Portuguese and get by well in Spanish.
 - 🌍 The future is gonna be digital!
 
 
+I have also basic knowledge in:
   <div>
   <a href="https://github.com/WagnerOrtiz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WagnerOrtiz&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true"/>
